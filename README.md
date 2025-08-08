@@ -50,6 +50,3 @@ Include crop insurance calculators and credit eligibility tools.
 IBM Cloud Lite
 
 IBM Granite Foundation Models
-
-e-NAM (National Agriculture Market)
-
